@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Coffee Table",
+    "description": "A sleek and stylish coffee table with a glass top and metal legs.",
+    "price": 150,
+    "stock": 20,
+    "imageUrl": "https://down-ph.img.susercontent.com/file/ph-11134207-7r98p-lr9np8nxul1147",
+    "alt": "Modern Coffee Table"
+  },
+  {
+    "id": 2,
+    "name": "Vintage Bookshelf",
+    "description": "A wooden bookshelf with a vintage charm, perfect for showcasing your book collection.",
+    "price": 280,
+    "stock": 15,
+    "imageUrl": "https://down-ph.img.susercontent.com/file/8dbd95f7ffd2f3b42efa6686fb8f5ae3",
+    "alt": "Vintage Bookshelf"
+  },
+  {
+    "id": 3,
+    "name": "Leather Recliner Chair",
+    "description": "A comfortable leather recliner chair, ideal for relaxation and movie nights.",
+    "price": 400,
+    "stock": 10,
+    "imageUrl": "https://down-ph.img.susercontent.com/file/ph-11134207-7r98v-lpage3jsltk903",
+    "alt": "Leather Recliner Chair"
+  },
+  {
+    "id": 4,
+    "name": "Minimalist Dining Table",
+    "description": "A simple and elegant dining table that complements any modern dining room.",
+    "price": 300,
+    "stock": 18,
+    "imageUrl": "https://down-ph.img.susercontent.com/file/ph-11134207-7r98p-loewxcjaq1uu31",
+    "alt": "Minimalist Dining Table"
+  },
+  {
+    "id": 5,
+    "name": "L-shaped Sectional Sofa",
+    "description": "A spacious and cozy L-shaped sectional sofa, perfect for family gatherings.",
+    "price": 600,
+    "stock": 12,
+    "imageUrl": "https://down-ph.img.susercontent.com/file/ph-11134207-7qul4-lh5mx7n7a3mufe",
+    "alt": "L-shaped Sectional Sofa"
+  },
+  {
+    "id": 6,
+    "name": "Bedside Nightstand",
+    "description": "A compact nightstand with storage, ideal for keeping essentials by your bedside.",
+    "price": 80,
+    "stock": 25,
+    "imageUrl": "https://down-ph.img.susercontent.com/file/65d2484b4201b6e6c43cb878040c7147",
+    "alt": "Bedside Nightstand"
+  },
+  {
+    "id": 7,
+    "name": "Industrial Style Desk",
+    "description": "An industrial-style desk with metal frame and wooden top, perfect for a home office.",
+    "price": 220,
+    "stock": 15,
+    "imageUrl": "https://down-ph.img.susercontent.com/file/ph-11134207-7r98z-lmg2c0kvdm9d10",
+    "alt": "Industrial Style Desk"
+  },
+  {
+    "id": 8,
+    "name": "Velvet Accent Chair",
+    "description": "A luxurious velvet accent chair that adds a touch of elegance to any room.",
+    "price": 180,
+    "stock": 8,
+    "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2022/03/18/accent-chairs-640-1647595964.jpg",
+    "alt": "Velvet Accent Chair"
+  },
+  {
+    "id": 9,
+    "name": "Outdoor Patio Set",
+    "description": "A complete outdoor patio set with a table and comfortable chairs, perfect for summer days.",
+    "price": 500,
+    "stock": 10,
+    "imageUrl": "https://mandauefoam.ph/cdn/shop/files/124784AnselOutdrSquare2sDngSet-matteGreym.png?v=1706835320&width=800",
+    "alt": "Outdoor Patio Set"
+  }
+]
